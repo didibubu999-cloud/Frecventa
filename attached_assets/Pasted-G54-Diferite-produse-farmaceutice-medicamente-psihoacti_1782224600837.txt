@@ -1,0 +1,217 @@
+G54: Diferite produse farmaceutice, medicamente psihoactive 2
+AB32: Adrenalină
+AB34: Atenolol
+AB36: b-Estradiol 17
+AB38: Chinină
+AB39: Ciclosporină
+AB40: Cimetidină
+AB42: Diclofenac
+AB43: Dinoproston
+AB46: Fenoterol
+AB47: Halotan
+AB49: Ketamină
+AB51: Metoprololtartrat
+AB53: Oxitocină
+AB55: Fenazonă
+AB57: Propranolol
+AB58: Salbutamol
+AB59: Teofilină
+AB61: Doxepin
+AB62: Flufenazină
+AB63: Haloperidol
+AB64: Maprotilină
+AB65: Prometazină
+G55: Vaccinuri, profilaxia malariei, otravă de șarpe
+I02: Clorochin (Profilaxia malariei)
+I04: Difterie
+I05: FSME (meningoencefalită de începutul primăverii)
+I06: Cangrenă de gaz
+I07: Febră galbenă
+I08: Haemophylis influenzae
+I09: Hepatitis A
+I10: Hepatitis B
+I12: Pojar (Morbilli)
+I13: Meflochin (profilaxia malariei)
+I16: Rubeolă
+I18: Stafilococi
+I19: Trismus (Tetanus)
+I20: Turbare (rabie)
+I21: Tuberculoză (bacili BCG)
+I22: Tifos
+I23: Varicelă
+I25: Poliomielită (injecție)
+I26: Astm, bronșită
+I27:  Vaccinare de 2 ori Di Te
+I28: Vaccinare de 3 ori MMR
+I29: Vaccinare de 4 ori Di Te Pe Po
+I30: Vaccinare de 6 ori Di Te Pe Po HepB Haem
+I31: Meningococi ACWY
+I32: Vaccinare penumococi
+I33: Vaccin gripal
+I34: Vaccin Nos (variolă)
+I35: Variolum Nos (otravă variolă)
+I36: Vaccin holeră Nos
+I37: Pertussis Nos (tuse convulsivă)
+I38: Virus FSME
+I39: Febră cauzată de mușcătura căpușei Nos
+I40: Febră Q Nos
+I41: Borellia Nos
+G56: Metale 1
+ME01: Aluminiu
+ME02: Amalgam
+ME03: Arsen
+ME04: Beriliu
+ME05: Plumb
+ME06: Crom (VI)
+ME07: Fier
+ME09: Aur
+ME11: Iridiu
+ME12: Cadmiu
+ME13: Cobalt
+ME14: Cupru
+ME15: Litiu
+ME16: Magneziu
+ME17: Mangan
+ME18: Molibden
+ME19: Nichel
+ME20: Osmiu
+ME21: Paladiu
+ME22: Platină
+ME23: Mercur
+ME24: Rubidiu
+ME25: Argint
+ME27: Taliu
+ME28: Titan
+ME29: Vanadiu
+ME30: Tinc
+G57: Metale 2
+ME08: Galiu
+ME10: Iridiu
+ME26: Tantal
+ME30: Wolfram
+ME32: Staniu
+G58: Pesticide 1
+PE11: Permethrin (I)
+PE12: Pyrethrum (I)
+G59: Pesticide 2
+PE14: Troy polifazic (F)
+PE20: Lindan (I)
+PE22: Pentaclorfenol (H)
+PE26: Sulf (F)
+G60: Pesticide 3
+PE02: Benzoisothiazolidion (F) aceasta substanta nu apare pe internet, in locul ei imi da Benzisothiazolinone
+PE03: Bronopol (B)
+PE05: Captan (F)
+PE06: Diazinon (I)
+PE07: Erbicide (H)
+PE08: Folpet (F)
+PE09: Kathon ITZ -14 (B)
+PE10: Kathon Skane H-8 (B)
+PE15: Zineb (F)
+PE17: Erpax (H)
+PE18: Oxiclurură de cupru (F)
+PE19: Vitriol albastru (sulfat de cupru) (F)
+PE23: Coumaphos (P)
+PE24: Fenoxaprop-etil (H)
+G61: Pesticide 4
+PE21: Metaldehid (M)
+PE24: Fenol (H)
+PE27: Xylamon (H)
+G62: Substanțe de protecție solară
+PH01: 2- Etilhexil – 4 – dimetil aminobenzoat
+PH02: 2- Etilhexil – 4 – dimetil metoxicinnamat
+PH03: Acid sulfonic 2- Fenil – 5 – benzimidazol
+PH04: 3- (4-Metilbenziliden) – camfor
+PH05: Acid para aminobenzoic (PABA)
+PH06: 4 – ter – butil – 4 – metoxidibenzoat
+PH07: Isoamil -4 – metoxicinnamat
+PH08: Oxibenzon
+PH09: Sulisobenzon
+G63: Substanțe foto alergice
+PH10: 5 – Brom -4- Clorsalicilandilid
+PH11: Mosc Ambrette
+PH12: Bitionol
+PH13: Chinidină sulfat
+PH14: Clorhidrat de clorpromazină
+PH15: Mix de parfumuri
+PH16: Hexaclorofen
+PH17: Olaquindox
+PH18: Clorhidrat de prometazină
+PH19: Sulfanilamidă
+PH20: Tetraclorură de salicilanilidă
+PH21: Tiouree
+PH22: Tribromsalan
+G64: Produse chimice de mediu 1
+U01: Clormetil izotiazol
+U06: Formaldehidă
+U20: Amoniac
+U21: Trioxid de antimoniu
+U22: Ester metilic al acidului benzoic
+U23: Clor (pentru piscină)
+U24: Lindan (HCH)
+U25: Mosc-cetonă
+U26: Mix PCB
+U27: Percloretilenă
+U30: Ciment
+G65: Produse chimice de mediu 2
+U27: Acid tereftalic
+U28: Tetrabrom-fenol
+G66: Produse chimice de mediu 3
+U02: Benzocaină
+U03: Alcool cetilstearilic
+U04: Mix de parfumuri
+U05: Rășină epoxidică
+U07: Dicromat de potasiu
+U08: Clorofoniu
+U09: Mercapto mix
+U10: Mercaptobenzotiazol (MBT)
+U11: N-Izopropil-N’-fenil-p-fenilendiamină
+U12: Sulfat de neomicină
+U13: P-fenilendiamină (PPD)
+U14: Rășină de p-tert.-butilfenol-formaldehidă
+U15: Mix de parabeni
+U16: Balsam de Peru
+U17: Mix de thiuram
+U18: Alcool de lână
+U19: Dietilditiocarbamat de zinc
+G67: Fibre
+U31: Azbest
+U32: Fibre de celuloză
+U33: Fibre de sticlă
+U34: Fibre de ceramică
+G68: Combustibil, gaze de eșapament
+U35: Benzină, combustibil fără plumb
+U36: Benzină, combustibil cu plumb
+U37: Combustibil diesel
+U38: Petrol
+U39: Eșapament (autovehicul)
+U40: Gaz de gătit
+U41: Fum de tutun
+G69: Dizolvanți
+U42: Acetonă
+U43: Metanol
+U44: Metietilcetonă
+U45: NC Solvent
+U46: Alcool propilic
+U47: Stiren
+U48: Toluen
+U49: Xilen
+G70: Substanțe de proteze dentare
+Z01: Bisfenol
+Z02: Amalgam
+Z03: Amalgam –aliaj
+Z04: Tetracloroplatinat de amoniu
+Z05: Peroxid de benzoil
+Z06: Eugenol
+Z07: Hidrochinonă
+Z08: Dicianoaurat de potasiu
+Z09: N,N-dimetil-p-toluidină
+Z10: Tiosulfatoaurat de sodiu
+Z11: Clorură de paladiu
+Z12: Clorură de staniu (II)
+Z13: (2-Hidroxietil)-metacrilat
+Z14: BIS-GMA
+Z15: Diuretan dimetilacrilat
+Z16: Etilenglicol-dimetilacrilat
+Z17: Metilmetacrilat
+Z18: Trietilenglicol-dimetacrilat

@@ -1,0 +1,966 @@
+Durata: aproximativ o ora
+Testam si separat doar alergenii alimentari-32 grupe- alimente,aditivi alimentari,conservanti,condimente etc.-350 substante  – 550 lei
+–Testul integral cu cele 70 grupe de substante alimentare si nealimentare- 1000 de substante 950 lei.
+G01 NaCl(sare de bucatarie)
+G02 Lactoza
+G03 Ulei de parafina
+G04 Saruri + Fenoli
+G05 Amine biogene(Principalele amine biogene din alimente sunt: histamina, tiramina, cadaverina, putresceina, spermidina și spermina)
+G06 Glutelina din grau,gluten,fosfati, acid salicylic
+G07 Produse din lapte,Oua
+G08 Uleiuri comestibile ptr. salate
+G09 Branza
+G10 Carne,tofu
+G11Peste,crustacee,moluste
+G12 Porumb, orez, seminte
+G13 Plante cu boabe(mazare,fasole),bob
+G14 Zahar,miere,sirop
+G15 Indulcitori artificiali,inlocuitori de zahar
+G16 Sare,substante picante,,iod,flor
+G17 Must de bere,otet
+G18 Condimente
+G19 Ceaiuri de plante
+G20 Cafea,ceai
+G21 Ingrediente de copt
+G22 Nuci
+G23 Ciuperci comestibile
+G24 Bere,vin ,brandy
+G25 Legume radacinoase
+G26 Legume,pepeni
+G27 Fructe cu samburi
+G28 Fructe cu tot felul de samburi/ Fructe tropicale
+G29 Fructe de padure( capsuni,zmeura,mure)
+G30 Citrice
+G31 Coloranti
+G32 Conservanti alimentari
+G33 Antioxidanti , stabilizatori, emulsificatori, intaritori de gust
+G34 Varietate de  E-uri
+G35 Arome alimentare
+G36 Dezinfectanti alimentari si conservanti
+G37 Rar alergic la polen
+G38 Alergie comuna, ocazionala la polen
+G39 Adesea alergic la polen
+G40 Epitelii de animale, venin de insecte
+G41 Fungi
+G42 Praf de lemn, praf de fibre din plante, fan
+G43 Produse ptr curatenie, cosmetice
+G44 Textile, fibre naturale
+G45 Textile, fibre facute de mana omului
+G46 Coloranti textili
+G47 Detergenti, balsam de rufe
+G48  Antibiotice, antimicotice, antiseptice
+G49  Corticoizi (hormoni sintetici antiinflamatori)
+G50  anestezice locale, substante de tratament ptr ochi
+G51 Antibiotice,corticoizi , peniciline 1
+G52 Antibiotice,corticoizi , peniciline 2
+G53 Diverse produse farmaceutice, medicamente pshihice 1
+G54 Diverse produse farmaceutice, medicamente pshihice 2
+G55 Vaccinuri, profilaxia Malariei,venin de sarpe
+G 56 Metale 1
+G57 Metale 2
+G58 Pesticide 1
+G59 Pesticide 2
+G60 Pesticide 3
+G61 Pesticide 4
+G62 Substante ptr protectie solara
+G63 Foto alergeni
+G64 Chimicale din mediul inconjurator 1
+G65 Chimicale din mediul inconjurator 2
+G66 Chimicale din mediul inconjurator 3
+G67 Chimicale din Fibre
+G68 Combustibili,emisii de gaze
+G69 Solventi
+G70 Substante dentare
+Lista cu cele 1000 de substante alimentare si chimice
+G1 NaCl
+G2 Lactoză
+G3 Ulei de parafină
+G4 NaCl +fenol
+G05: Amine biogene incluse:
+LA01: Histamină
+LB01: Serotonină
+LC01: Tiramină
+LD01: Feniletilamină
+G06: Gliadină, gluten, acid acetilsalicilic și fosfați
+LA02: Gliadină
+LB02: Gluten
+LC02: Acid acetilsalicilic
+LD02: Fosfați
+G07: Produse lactate, ouă
+LA03: Lapte
+LA04: Iaurt
+LA05: Smântână
+LA06: Unt
+LB03: Lapte condensat
+LB04: Bifidus
+LB05: Lapte bătut
+LC03: Albuș de ou
+LC04: Lapte acru
+LC05: Brânză (de vacă)
+LD03: Gălbenuș de ou
+LD04: Chefir
+G08: Uleiuri vegetale
+LA07: Ulei de șofran
+LB06: Margarină
+LB07: Ulei de floarea soarelui
+LC06: Ulei de arahide
+LC07: Ulei de măsline
+LD06: Ulei de gătit (prăjit)
+LD07: Ulei de rapiță
+G09: Brânzeturi
+LA08: Cașcaval
+LB08: Cascaval moale (brânză)
+LC08: Feta / Telemea
+LD08: Camembert (brânză cu mucegai)
+G10: Carne, tofu
+LA09: Carne de porc
+LA10: Carne de pui
+LB09: Carne de vită
+LB10: Carne de iepure
+LC09: Carne de vițel
+LC10: Carne de curcan
+LD09: Carne de miel
+LD10: Tofu
+G11: Pește, crustacee și moluște
+F01: Țipar
+F02: Pește alb (coregon, păstrăv argintiu)
+F03: Cambulă, plătică
+F04: Rac de râu
+F05: Păstrăv brun
+F06: Știucă
+F07: Homar
+F08: Cod
+F09: Crap
+F10: Creveți
+F11: Somon
+F12: Midii
+F13: Sardine
+F14: Soleide (ex. limbă-de-mare)
+F15: Ton
+F16: Sepie
+G12: Cereale, orez, semințe
+LA12: Grâu
+LA13: Ovăz
+LA14: Porumb
+LA15: Orez
+LA16: Semințe de in
+LB15: Orz
+LB16: Semințe de susan
+LC13: Secară
+LC15: Mei auriu
+LC16: Soia
+LD13: Alac
+LD14: Hrișcă
+LD15: Mac
+G13: Leguminoase, semințe (miezuri)
+LA17: Mazăre galbenă
+LB17: Mazăre verde
+LC17: Semințe de dovleac
+LD16: Linte
+LD17: Semințe de floarea soarelui
+G14: Zahăr, miere, lemn dulce
+LA18: Zahăr alb
+LA19: Lactoză
+LB18: Zahăr din trestie
+LB19: Lemn dulce
+LC18: Zahăr din sfeclă de zahăr
+LC19: Miere de albine
+LD18: Fructoză
+G15: Îndulcitori artificiali, înlocuitori de zahăr
+LA20: Sorbitol
+LA21: Maltitol
+LB20: Manitol
+LB21: Zaharină
+LC20: Xilitol
+LC21: Ciclamat
+LD20: Palatinoză
+LD21: Aspartam
+G16: Sare, substanțe picante / de conservare, iod, fluor
+LA22: Sare
+LA23: Sare cu condimente
+LB22: Sare de mare
+LB23: Sare cu plante aromatice
+LC22: Clorură de sodiu
+LC23: Glutamat
+LD22: Iodură de sodiu
+LD23: Substanțe picante (de conservare)
+G17: Must, oțet
+LA29: Oțet de fructe
+LB29: Oțet de vin
+LC29: Cenovis (producător de vitamine și suplimente alimentare)
+LD29: ”Maggiwürze” – sos condimentat
+ 
+G18: Condimente
+GT01: Anason
+GT02: Busuioc
+GT03: Cimbru
+GT04: Piper Cayen
+GT05: Curry
+GT06: Mărar
+GT07: Tarhon
+GT08: Cuișoare
+GT09: Ghimbir
+GT10: Usturoi
+GT11: Coriandru
+GT12: Chimion
+GT13: Frunze de dafin
+GT14: Măghiran
+GT15: Nucșoară
+GT16: Oregano
+GT17: Boia de ardei
+GT18: Pătrunjel
+GT19: Piper
+GT20: Rozmarin
+GT21: Salvie
+GT22: Arpagic
+GT23: Muștar
+GT24: Cimbrișor
+GT25: Ienupăr
+GT26: Scorțișoară
+G19: Ceaiuri de plante
+GT27: Verbenă
+GT28: Semințe de fenicul
+GT29: Măceșe
+GT30: Sunătoare
+GT31: Mușețel
+GT32: Flori de tei
+GT33: Mentă piperată
+GT34: Roiniță
+G20: Cafea, ceai
+LA24: Espresso
+LA25: Cafea din cereale
+LB24: Cafea Onko S (marcă)
+LB25: Cacao
+LC24: Cafea Hag (marcă)
+LC25: Ceai negru
+LD24: Nescafe
+LD25: Ceai verde
+ 
+G21: Ingrediente de copt
+LA27: Drojdie
+LB27: Praf de copt
+LB28: Pudră de ciocolată
+LC27: Gelatină
+LC28: Vanilie
+LD28: Șofran
+G22: Nuci
+LA30: Alune
+LA31: Alune braziliene
+LB30: Nuci
+LB31: Nuci pecan
+LC30: Arahide
+LC31: Nucă de cocos
+LD30: Migdale
+LD31: Fistic
+G23: Ciuperci comestibile
+LA33: Chimpignon
+LB33: Zbârciog
+LC33: Trâmbița-piticilor
+LD33: Porcini
+G24: Bere, vin, brandy/cognac
+LA34: Vin alb
+LB34: Vin roșu
+LC34: Bere
+LD34: Cognac/Brandy
+G25: Legume cu tuberculi
+LA35: Cartof
+LA36: Ridiche de lună
+LB35: Morcov
+LB36: Țelină
+LC35: Sfeclă roșie
+LC36: Gulie
+LD35: Ridiche
+LD36: Ceapă
+G26: Legume, pepene galben
+LA37: Varză creață
+LA38: Brocoli
+LA39: Castravete
+LB37: Varză roșie
+LB38: Tubercul de fenicul
+LB39: Zucchini (varietate de dovleac de culoare verde închis)
+LC37: Varză de Bruxelles
+LC38: Praz
+LC39: Pepene galben
+LD37: Conopidă
+LD38: Ardei iute
+LD39: Fasole
+LA41: Roșii
+ 
+G27: Fructe cu semințe
+LA42: Măr
+LB42: Pară
+LC42: Strugure
+LD42: Stafide
+G28: Fructe sâmburoase, fructe exotice
+LA43: Piersică
+LA44: Cireașă
+LB43: Nectarină
+LB44: Ananas
+LC43: Caisă
+LC44: Banană
+LD43: Prună
+LD44: Smochine
+G29: Fructe de pădure
+LA45: Căpșună
+LB45: Zmeură
+LC45: Mure
+LD45: Coacăze
+G30: Citrice
+LA46: Portocală
+LB46: Mandarină
+LC46: Grapefruit
+LD46: Lămâie
+G31: Coloranți
+E102: Tartazină
+E104: Galben chinolină
+E110: Galben-portocaliu (sunset)
+E120: Coșenilă, carmin
+E122: Azorubină
+E123: Amarant
+E124: Ponceau 4R
+E127: Eritrozină
+E131: Albastru (bleu) patent V
+E132: Indigotină
+E142: Verde acid briliant BS
+E150: Caramel
+E151: Negru briliant BN
+E153: Cărbune vegetal
+E162: Extract de sfeclă roșie, betanină
+E171: Dioxid de titan
+E172: Aluminiu
+G32: Conservanți alimentari
+E200: Acid sorbic
+E210: Acid benzoic
+E211: Benzoat de sodiu
+E212: Benzoat de potasiu
+E214: P-hidroxibenzoat de etil, etil paraben
+E216: P-hidroxibenzoat de propil, propil paraben
+E218: P-hidroxibenzoat de metil, metil paraben
+E221: Sulfit de sodiu
+E222: Sulfit acid de sodiu (bisulfit de sodiu)
+E223: Metabilsulfit de sodiu (disulfit de sodiu)
+E230: Bifenil
+E231: Ortofenil fenol
+E236: Acid formic
+E251: Nitrat de sodiu
+E252: Nitrat de potasiu
+E270: Acid lactic
+E280: Acid propionic
+E281: Propionat de sodiu
+G33: Antioxidanți, agenți emulgatori și stabilizatori, potențatori de gust
+E310: Galat de propil
+E311: Galat de octil
+E312: Galat de dodecil
+E320: Butilhidroxianisol (BHA)
+E321: Butilhidroxitoluol (BHT)
+E322: Lecitină
+E406: Agar-agar
+E407: Caragenan
+E410: Gumă de carruba
+E414: Gumă arabică
+E420: Sorbitol
+E421: Manitol
+E422: Glicerină
+E440a: Pectină
+E450b: Trifosfat pentasodic
+E450c: Hexametafosfat de sodiu
+E535: Ferocianură de sodiu
+E536: Ferocianură de potasiu
+E621: Glutamat sodic
+R622: Glutamat potasic
+E623: Glutamat de calciu
+E627: Guanilat de sodiu
+R640: Glicină
+E641: Leucină
+G34: Diverse substanțe E
+E905: Parafină
+E924: Bromat de potasiu
+E951: Aspartam
+E952: Ciclamat
+E954: Zaharină
+G35: Arome alimentare
+AR01: Ananas
+AR02: Măr
+AR03: Caisă
+AR04:Banană
+AR05: Migdale amare
+AR06: Mure
+AR07: Coacăze negre
+AR08: Căpsună
+AR09: Afine
+AR10: Zmeură
+AR11: Cafea
+AR12: Kirsch
+AR13: Cireșe
+AR14: Migdale
+AR15: Cireșe amare (maraschino)
+AR16: Portocale
+AR17: Mentă piperată
+AR18: Piersică
+AR19: Fistic
+AR20: Rom
+AR21: Strugure
+AR22: Vanilie
+AR23: Fructe de pădure
+AR24: Pere Williams
+AR25: Lămâie
+G36: Dezinfectanți și conservanți alimentari
+DK01: ACID 2 – ETILMERCURITIO BENZOIC
+DK02: CLORURĂ DE BENZALCONIU
+DK03: BRONOPOL
+DK04: CLORURĂ DE CETALCONIU
+DK05: CLORURĂ DE CETILPIRIDINIU
+DK06: CLORACETAMIDĂ
+DK07: DIGLUCONAT DE CLORHEXIDINĂ (ÎN APĂ)
+DK08: CLORCREZOL (PCMC)
+DK09: CLOROXILENOL
+DK10: UREE DE DIAZOLIDINIL (GERMALL II)
+DK11: DICLOROFEN
+DK12: EUXYL® K400
+DK13: GLUTARALDEHIDĂ
+DK14: UREE DE IMIDAZOLIDINILĂ (GEMALL 115)
+DK15: TIMERFONAT DE SODIU
+DK16: OSMARON® B
+DK17: FENILMERCURIC
+DK18: QUATERNIUM 15
+DK19: ACID SORBIC
+DK20: BUTILHIDROXIANISOL (BHA)
+DK21: BUTILHIDROXITOLUOL (BHT)
+DK22: GALAT DE DODECIL
+DK23: TERT. BUTILHIRDOCHINONĂ
+DK24: BUTIL-4-HIDROXIBENZOAT
+DK25: ETIL-4-HIDROXIBENZOAT
+DK26: METIL-4-HIDROXIBENZOAT
+DK27: PROPIL-4-HIDROXIBENZOAT
+DK28: DIBROMDICIANOBUTAN
+DK29: FENOXIETANOL
+G37: Polen rar sau polen puțin alergen
+P01: Arțar
+P02: Amarant (coada vulpii)
+P03: Ochiul-boului
+P06: Urzică
+P07: Crizantemă
+P08: Dalie
+P09: Stejar
+P11: Frasin
+P12: Molid
+P13: Liliac
+P14: Talpa gâștei, albă
+P16: Paracherniță
+P18: Splinuță
+P21: Carpen
+P23: Soc
+P25: Hamei
+P27: Iasomie (falsă)
+P29: Pin
+P32: Tei
+P33: Păpădie
+P34: Lucernă
+P35: Porumb
+P36: Margaretă
+P41: Rapiță
+P43: Robinie (Salcâm, fals)
+P45: Fag european (fag)
+P60 Castan
+G38: Polen prezent frecvent și rar alergen
+P15: Orz
+P19: Ovăz
+P26: Cynodon Dactylon
+P37: Plop
+P38: Platan
+P39: Perișor
+P40: Ambrozie
+P52: Ulm
+P54: Salcie
+P55: Grâu
+G39: Polen cu frecvență mare și deseori alergen
+P04: Pelin comum
+P05: Mesteacăn
+P06: Arin
+P10: Arin
+P22: Alun
+P24: Flocoșica
+P28: Cynosurus cristatus
+P30: Dactzlis glomerata
+P42: Lolium perenne
+P44: Secară
+P46: Anyhoxanthum odoratum
+P47: Măcriș
+P53: Pătlagină
+P56: Mohor
+P57: Timoftică
+P58: Firuță
+P59: Păiuș înalt
+G40: Epiteliu animal, venin de insecte
+T01: Găină
+T02: Rață
+T03: Gâscă
+T04: Peruș
+T05: Hamster auriu
+T06: Câine
+T07: Iepure
+T08: Pisică
+T09: Porc de guineea
+T10: Cal
+T11: Vită
+T12: Oaie
+T13: Porc
+T14: Capră
+T15: Cămilă
+T16: Șoarece
+T17: Șobolan
+T18: Acarian (Dermatophagoides pharinae)
+T19: Acarian de praf (Dermatophagoides pterronyssinus)
+T24: Venin de albină
+T25: Venin de viespe
+G41: Fungi
+M01: Alternata tenuis
+M02: Aspergillus fumigatus
+M03: Botrytis cinerea
+M04: Candida albicans
+M05: Chaetomium globosum
+M06: Cladosporium herbarum
+M07: Curvularia lunata
+M08: Fusarium moniliforme
+M09: Helmithosporum halodes
+M10: Microsporum canis
+M11: Mucor mucedo
+M12: Neurospora sitophila
+M13: Penicillium notatum
+M14: Phoma betae
+M15: Pullularia pullulans
+M16: Phizopus nigricans
+M17: Saccharomyces cerevisiae
+M18: Serpula lacrymans
+M20: Trichophyton mentagrophytes
+M21: Ustilago tritici
+M22: Alternaria alternata
+M23: Aspegillus niger
+M26: Mucor recemosus
+M28: Penicillium expansum
+M32: Aspergillus terreus
+M35: Edipermophyton flocosum
+M36: Epicoccum purpurascens
+M37: Fusarim solani
+M40: Penicillium rogueforti
+M41: Stemphlyium botryosum
+G42: Praf de lemn, fibre vegetale,  praf de fân
+S01: Lemn de fag
+S02: Lemn de stejar
+S03: Lemn de molid
+S04: Lemn de pin
+S05: Lemn de nuc
+S06: Lemn de brad
+S07: Lemn de ulm
+S08: Lemn de abachi
+S09: Lemn de limba
+S10: Lemn de mahon
+S11: Lemn de macoré
+S12: Lemn de ramin
+S13: Lemn de teak
+S14: Bumbac
+S15: In
+S16: Copac de bumbac (Ceiba pentandra)
+S17: Fân
+G43: Gospodărie, cosmetice
+HK01: 1,3 Difenilguanidină
+HK02: Acid abietic
+HK03: Abitol®
+HK04: Adep lanae
+HK05: Amerchol® L101
+HK06: Extract de flori de arnică
+HK07: Alcool benzilic
+HK08: Benzil-salicilat
+HK09: Cocamidopropilbetaină (îm apă)
+HK10: Difenilthiouree
+HK11: DMDM Hidantoină (în apă)
+HK12: Hidrochinonă
+HK13: Izopropilmiristat
+HK14: Extract de flori de mușețel
+HK15: Ulei de lămâiță
+HK16: Extract de flori de spilcuță
+HK17: Bezoat de sodiu
+HK18: Alifie de polietilenglicol
+HK19: Primin
+HK20: Propilenglicol
+HK21: Extract de vetrice
+HK22: Extract de coada șoricelului
+HK23: Mix de sesquiterpenlactonă
+HK24: Sorbitansesquioleat
+HK25: Balsam de tolu
+HK26: Rășină de toluolsulfonamid-formaldihidă (Santolite® MS)
+HK27: Triclosan
+HK28: Trolamină (Trietanolamină)
+HK29: Vanilină
+HK30:  Unguent de alcool de lână (Unguentum alcoholum lanae) DAB 9
+HK31: Piritionă de zinc
+ 
+G44: Textile, fibre naturale
+TW01: Alpacă
+TW02: Angora
+TW03: Bumbac
+TW04: Iută
+TW05: Cașmir
+TW06: In
+TW07: Mohair
+TW08: Ramie
+TW09: Mătase
+TW10: Lână de oaie
+G45: Textile, fibre artificiale
+TW11: Acril
+TW12: Nailon
+TW13: Poliamidă
+TW14: Poliester
+TW15: Poliamidă / Poliuretan
+TW16: Vâscoză
+G46: Coloranți de textile
+TW17: 4-Aminofenol
+TW18: Naftol AS
+TW19: Colorant de dispersie albastru 1
+TW20: Colorant de dispersie albastru 3
+TW21: Colorant de dispersie galben 3
+TW22: Colorant de dispersie galben 42
+TW23: Colorant de dispersie portocaliu 9
+TW24: Colorant de dispersie portocaliu 1
+TW25: Colorant de dispersie portocaliu 3
+TW26: Colorant de dispersie portocaliu 11
+TW27: Colorant de dispersie roșu 1
+TW28: Colorant de dispersie roșu 11
+TW29: Colorant de dispersie roșu 13
+TW30: Colorant de dispersie roșu 17
+G47: Detergenți
+TW31: Ancosoft
+TW32: Ariel futur
+TW33: Comfort
+TW34: Coral
+TW35: Dash
+TW36: Enka
+TW37: Lanolină Express
+TW38: Filetti Compact
+TW39: Florist
+TW40: Genie Lavabo
+TW41: Kürfein Compact
+TW42: Lenor Ultra Alp Fresh
+TW43: Maga Color
+TW44: Niaxa Compact
+TW45: Omo Complet
+TW47: Persil Megaperls
+TW48: Perwoll
+TW49: Radion Micro Activ
+TW50: Rei ultra
+TW51: Fulgi de săpun
+TW52: Softlan ultra
+TW53: Sunil aktiv
+TW54: Tandil color
+TW55: Total
+TW56: Vizir future
+TW57: Eißen Riese Megapass
+TW58: Wollana Finesse
+TW59: Calgon ultra
+G48: Antibiotice, antiseptice și antimicotice
+A01: Bacitracină
+A02: Cloramfenicol
+A03: Clorchinaldol
+A04: Cliochinol
+A05: Clotrimazol
+A06: Eritromicină
+A07: Framicetinsulfat
+A08: Acid fuzidic (Sare de sodiu)
+A09: Sulfat de gentamicină
+A10: Sulfat de canamicină
+A11: Mafenid
+A12: Nistatină
+A13: Oxitetraciclină
+A14: Sulfanilamidă
+A15: Clorhidrat de tetraciclină
+ 
+G49: Corticoizi
+A15: Clorhidrat de tetraciclină
+A16: Amcinonidă
+A17: Betametazon-17-valerat
+A18: Budesonid
+A19: Clobetazol-17-propionat
+A20: Clobetazol-17-propionat
+A21: Hidrocortizon
+A22: Hidrocortozon-17-butirat
+A23: Prednisolon
+A24: Triamcinolon acetonid
+G50: Anestezice locale, substanțe pentru tratamentul ochilor
+A24: Cincocaină hidroclorică
+A25: Lidocaină hidroclorică
+A26: Procaină hidroclorică
+A27: Tetracaină hidroclorică
+A28: Sulfat de atropină în apă
+A29: Sare disodică a acidului edetinic
+A30: Clorhidrat de fenilefrină
+A31: Pilocarpină hidroclorică
+A32: Sulfat de polimixină B
+A33: Benzoil peroxid
+A34: Bufexmac
+A35: Dexpantonol
+A36: Mentol
+A37: Polidocanol
+A39: Propolis
+G51: Antibiotice, corticoizi, peniciline 1
+AB01: Aciclovir
+AB03: Ampicilină
+AB04: Carbadox
+AB05: Ceftriaxon
+AB06: Cefuroxim
+AB07: Clorochină difosfat
+AB08: Clindamicină
+AB11: Doxicilină
+AB12: Etambutol
+AB13: Hexaclorciclohexan
+AB14: Isoniacidă
+AB16: Metronidazol
+AB18: Penicilină G
+AB19: Penicilină V
+AB23: Sulfatiazol
+AB24: Systamax*
+AB26: Tylan
+AB27: Vancomicină
+Ab28: Vetroprim*
+AB29: Virginiamicină
+G52: Antibiotice, corticoizi, peniciline 2
+AB02: Amoxicilină
+AB09: Cortizon
+AB10: Dexametazonă
+AB15: Lomefloxacin
+AB17: Ofloxacină
+AB21: Sulfadiazină
+AB22: Sulfametoxazol
+AB25: Trimetoprim
+AB30: Zaquilan*
+G53: Diferite produse farmaceutice, medicamente psihoactive 1
+AB31: Acid acetilsalicilic (ASS)
+AB33: Hidroxid de aluminiu
+AB35: Azatioprină
+AB37: Sulfat de bariu
+AB41: Acid cromoglicic
+AB44: Droperidol
+AB45: Estriol
+AB48: Ibuprofen
+AB50: Hidroxid de magneziu
+AB52: Noretisteron
+AB54: Paracetamol
+AB56: Progesteron
+AB60: Diazepam
+AB66: Sulpiridă
+G54: Diferite produse farmaceutice, medicamente psihoactive 2
+AB32: Adrenalină
+AB34: Atenolol
+AB36: b-Estradiol 17
+AB38: Chinină
+AB39: Ciclosporină
+AB40: Cimetidină
+AB42: Diclofenac
+AB43: Dinoproston
+AB46: Fenoterol
+AB47: Halotan
+AB49: Ketamină
+AB51: Metoprololtartrat
+AB53: Oxitocină
+AB55: Fenazonă
+AB57: Propranolol
+AB58: Salbutamol
+AB59: Teofilină
+AB61: Doxepin
+AB62: Flufenazină
+AB63: Haloperidol
+AB64: Maprotilină
+AB65: Prometazină
+G55: Vaccinuri, profilaxia malariei, otravă de șarpe
+I02: Clorochin (Profilaxia malariei)
+I04: Difterie
+I05: FSME (meningoencefalită de începutul primăverii)
+I06: Cangrenă de gaz
+I07: Febră galbenă
+I08: Haemophylis influenzae
+I09: Hepatitis A
+I10: Hepatitis B
+I12: Pojar (Morbilli)
+I13: Meflochin (profilaxia malariei)
+I16: Rubeolă
+I18: Stafilococi
+I19: Trismus (Tetanus)
+I20: Turbare (rabie)
+I21: Tuberculoză (bacili BCG)
+I22: Tifos
+I23: Varicelă
+I25: Poliomielită (injecție)
+I26: Astm, bronșită
+I27:  Vaccinare de 2 ori Di Te
+I28: Vaccinare de 3 ori MMR
+I29: Vaccinare de 4 ori Di Te Pe Po
+I30: Vaccinare de 6 ori Di Te Pe Po HepB Haem
+I31: Meningococi ACWY
+I32: Vaccinare penumococi
+I33: Vaccin gripal
+I34: Vaccin Nos (variolă)
+I35: Variolum Nos (otravă variolă)
+I36: Vaccin holeră Nos
+I37: Pertussis Nos (tuse convulsivă)
+I38: Virus FSME
+I39: Febră cauzată de mușcătura căpușei Nos
+I40: Febră Q Nos
+I41: Borellia Nos
+G56: Metale 1
+ME01: Aluminiu
+ME02: Amalgam
+ME03: Arsen
+ME04: Beriliu
+ME05: Plumb
+ME06: Crom (VI)
+ME07: Fier
+ME09: Aur
+ME11: Iridiu
+ME12: Cadmiu
+ME13: Cobalt
+ME14: Cupru
+ME15: Litiu
+ME16: Magneziu
+ME17: Mangan
+ME18: Molibden
+ME19: Nichel
+ME20: Osmiu
+ME21: Paladiu
+ME22: Platină
+ME23: Mercur
+ME24: Rubidiu
+ME25: Argint
+ME27: Taliu
+ME28: Titan
+ME29: Vanadiu
+ME30: Tinc
+G57: Metale 2
+ME08: Galiu
+ME10: Iridiu
+ME26: Tantal
+ME30: Wolfram
+ME32: Staniu
+G58: Pesticide 1
+PE11: Permethrin (I)
+PE12: Pyrethrum (I)
+G59: Pesticide 2
+PE14: Troy polifazic (F)
+PE20: Lindan (I)
+PE22: Pentaclorfenol (H)
+PE26: Sulf (F)
+G60: Pesticide 3
+PE02: Benzoisothiazolidion (F) aceasta substanta nu apare pe internet, in locul ei imi da Benzisothiazolinone
+PE03: Bronopol (B)
+PE05: Captan (F)
+PE06: Diazinon (I)
+PE07: Erbicide (H)
+PE08: Folpet (F)
+PE09: Kathon ITZ -14 (B)
+PE10: Kathon Skane H-8 (B)
+PE15: Zineb (F)
+PE17: Erpax (H)
+PE18: Oxiclurură de cupru (F)
+PE19: Vitriol albastru (sulfat de cupru) (F)
+PE23: Coumaphos (P)
+PE24: Fenoxaprop-etil (H)
+G61: Pesticide 4
+PE21: Metaldehid (M)
+PE24: Fenol (H)
+PE27: Xylamon (H)
+G62: Substanțe de protecție solară
+PH01: 2- Etilhexil – 4 – dimetil aminobenzoat
+PH02: 2- Etilhexil – 4 – dimetil metoxicinnamat
+PH03: Acid sulfonic 2- Fenil – 5 – benzimidazol
+PH04: 3- (4-Metilbenziliden) – camfor
+PH05: Acid para aminobenzoic (PABA)
+PH06: 4 – ter – butil – 4 – metoxidibenzoat
+PH07: Isoamil -4 – metoxicinnamat
+PH08: Oxibenzon
+PH09: Sulisobenzon
+G63: Substanțe foto alergice
+PH10: 5 – Brom -4- Clorsalicilandilid
+PH11: Mosc Ambrette
+PH12: Bitionol
+PH13: Chinidină sulfat
+PH14: Clorhidrat de clorpromazină
+PH15: Mix de parfumuri
+PH16: Hexaclorofen
+PH17: Olaquindox
+PH18: Clorhidrat de prometazină
+PH19: Sulfanilamidă
+PH20: Tetraclorură de salicilanilidă
+PH21: Tiouree
+PH22: Tribromsalan
+G64: Produse chimice de mediu 1
+U01: Clormetil izotiazol
+U06: Formaldehidă
+U20: Amoniac
+U21: Trioxid de antimoniu
+U22: Ester metilic al acidului benzoic
+U23: Clor (pentru piscină)
+U24: Lindan (HCH)
+U25: Mosc-cetonă
+U26: Mix PCB
+U27: Percloretilenă
+U30: Ciment
+G65: Produse chimice de mediu 2
+U27: Acid tereftalic
+U28: Tetrabrom-fenol
+G66: Produse chimice de mediu 3
+U02: Benzocaină
+U03: Alcool cetilstearilic
+U04: Mix de parfumuri
+U05: Rășină epoxidică
+U07: Dicromat de potasiu
+U08: Clorofoniu
+U09: Mercapto mix
+U10: Mercaptobenzotiazol (MBT)
+U11: N-Izopropil-N’-fenil-p-fenilendiamină
+U12: Sulfat de neomicină
+U13: P-fenilendiamină (PPD)
+U14: Rășină de p-tert.-butilfenol-formaldehidă
+U15: Mix de parabeni
+U16: Balsam de Peru
+U17: Mix de thiuram
+U18: Alcool de lână
+U19: Dietilditiocarbamat de zinc
+G67: Fibre
+U31: Azbest
+U32: Fibre de celuloză
+U33: Fibre de sticlă
+U34: Fibre de ceramică
+G68: Combustibil, gaze de eșapament
+U35: Benzină, combustibil fără plumb
+U36: Benzină, combustibil cu plumb
+U37: Combustibil diesel
+U38: Petrol
+U39: Eșapament (autovehicul)
+U40: Gaz de gătit
+U41: Fum de tutun
+G69: Dizolvanți
+U42: Acetonă
+U43: Metanol
+U44: Metietilcetonă
+U45: NC Solvent
+U46: Alcool propilic
+U47: Stiren
+U48: Toluen
+U49: Xilen
+G70: Substanțe de proteze dentare
+Z01: Bisfenol
+Z02: Amalgam
+Z03: Amalgam –aliaj
+Z04: Tetracloroplatinat de amoniu
+Z05: Peroxid de benzoil
+Z06: Eugenol
+Z07: Hidrochinonă
+Z08: Dicianoaurat de potasiu
+Z09: N,N-dimetil-p-toluidină
+Z10: Tiosulfatoaurat de sodiu
+Z11: Clorură de paladiu
+Z12: Clorură de staniu (II)
+Z13: (2-Hidroxietil)-metacrilat
+Z14: BIS-GMA
+Z15: Diuretan dimetilacrilat
+Z16: Etilenglicol-dimetilacrilat
+Z17: Metilmetacrilat
+Z18: Trietilenglicol-dimetacrilat
